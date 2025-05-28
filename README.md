@@ -34,5 +34,4 @@ A Flask-based webhook that connects to the WhatsApp Cloud API to receive incomin
 
 ---
 
-## 📁 Project Structure
 
